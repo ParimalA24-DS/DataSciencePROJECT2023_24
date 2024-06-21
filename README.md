@@ -5,7 +5,7 @@ Welcome to my Data Science Projects repository for 2023-2024! This repository sh
 
 ## Project 1: Student Mark Prediction with Deployment using Flask
 
-![Student Mark Prediction](student-mark-prediction-image-url)
+- LINK1:[https://github.com/ParimalA24-DS/DataSciencePROJECT2023_24/tree/main/1.STUDENTMARKPREDFLASK]
 
 ### Overview 🌐
 
